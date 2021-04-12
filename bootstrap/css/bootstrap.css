@@ -6754,4 +6754,11 @@ button.close {
     display: none !important;
   }
 }
+
+.icons{
+  line-height: 5em;
+  padding-right: 2em;
+  padding-left: 2em;
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
